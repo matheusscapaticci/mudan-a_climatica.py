@@ -1,2 +1,3 @@
 # mudan-a_climatica.py
-nothing
+
+- site conectado com assistente virtual
